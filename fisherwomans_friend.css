@@ -134,8 +134,12 @@ body{
 
 .seven_image{
     height:fit-content;
+    flex-direction: column;
+    margin-top: 35px;
+    justify-content: center;
+    align-items:center;
+    display: flex;
     margin-right: 5px;
-    margin-top: 65px;
     
 
 }
